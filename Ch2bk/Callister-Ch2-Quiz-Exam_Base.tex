@@ -1,0 +1,84 @@
+%%
+\documentclass[answers,11pt,oneside,addpoints]{exam}   %answers enabled, points for problems enabled
+\usepackage{jde_course}     %utlizing many of J. Rondinelli's styles.
+\newfontfamily\NUBrand{Periodico Display}
+\newfontfamily\NUBrandTwoLight{Campton Light}
+\newfontfamily\NUBrandTwo{Campton Medium}
+\usepackage[]{media9}
+\usepackage{float}
+	\floatstyle{plaintop}
+ \usepackage{vwcol}
+\setlength{\marginparwidth}{5cm}   
+
+%\hypersetup{
+    %colorlinks,
+    %linkcolor=BRed,
+    %citecolor=BRed,
+    %urlcolor=BRed}
+
+%set graphics and input paths to question bank subdirectories - change/add as necessary.
+\graphicspath{{C:/Users/Jonathan Emery/Documents/Northwestern-Lecturer/Coursework/Course Documents/MAT_SCI 201 Question Bank/Quiz-Exam/Figures/}}
+%
+\makeatletter
+	\def\input@path{{"C:/Users/Jonathan Emery/Documents/Northwestern-Lecturer/Coursework/Course Documents/MAT_SCI 201 Question Bank/Quiz-Exam/MultipleChoice/v0/"}}
+\makeatother
+
+%Commands for exam document class-----------------------------------------------
+\printanswers  %       ----> Print solutions
+\printrubric   %       ----> Print grading rubric
+\printoutcomes %       ----> Print results by class
+\printcomments %       ----> Print comments/extenstions
+\printID       %			 ----> Print file information
+
+\unframedsolutions
+\CorrectChoiceEmphasis{\color{red}\bfseries}
+\SolutionEmphasis{\color{red}}
+\pointsdroppedatright
+
+\renewcommand{\thequestion}{\arabic{question}}		   %upper-case Alpha for Parts (written as questions) sections
+\renewcommand{\thepartno}{\Alph{partno}}			       %arabic numbers for questions (written as parts)
+\renewcommand{\questionlabel}{}		     							 %styling
+\renewcommand{\partlabel}{}				                   %styling
+
+% Set up headers and footers----------------------------------
+\pagestyle{headandfoot}
+	\header{\footnotesize\sffamily{\NUBrand{MAT\texttt{\char`_}SCI 201: Callister Ch. 1 Homework Problems}}}	%Left, top, %Change
+	{}   %Middle, top
+	{\footnotesize \sffamily}   %Right, top, %Change
+	\firstpageheadrule
+	\runningheadrule
+	\footer{\footnotesize \sffamily {\NUBrand{\textcolor{NUpurp120}{Northwestern $|$ Materials Science and Engineering}}}} %left, bottom 
+	{}						%Middle, bottom
+	{\footnotesize \sffamily {\NUBrand{\thepage}}} %Right, bottom
+	\firstpagefootrule
+	\runningfootrule
+
+
+% Start document
+\begin{document}
+			
+%\begin{minipage}{0.8\textwidth} %If adding picture.
+	\textcolor{NUpurp120}{\LARGE\sffamily{\NUBrand{Quiz Question for Callister Ch. 2}}} %change
+	\vspace{0.25em}
+
+\textcolor{NUpurp120}{\NUBrandTwo%Listz
+} 
+\newline %change
+	%\textcolor{NUpurp120}{\NUBrandTwo{Due Date: \textcolor{Red}{3/9/2017 \textit{at the end of discussion}}}}      %change
+	%\vspace{0.25em}
+
+%Here is the problem set description.
+All problem sets and solutions have been written/adapted by J. Emery. Authors include J. Emery, J. Rondinelli, J. Snyder, and various teaching assistance.
+
+Directories are searched using Ch\*-Compile.py, which searches the home director for files starting with C-Ch2 adds them to the problem list. As new problems are added, this script should be run to provide the most up-to-date version of the problems.
+
+\large{\NUBrand{\textcolor{DRed}{The problems below are updated as of: \today, at\, \currenttime}}}
+
+Questions are organized into groups.
+
+% Here is where the questions are loaded. The input command navigates to a sub-directory and selects the question file.
+\newpage
+\begin{questions}
+\end{questions}
+
+\end{document}

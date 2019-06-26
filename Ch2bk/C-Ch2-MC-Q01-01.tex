@@ -1,0 +1,86 @@
+%Flag - see comment
+%
+\ifexam
+	\part[2]
+	\else
+	\question[1]
+\fi
+
+%FileID-------------------------------------------------
+\begin{FileID}
+\marginnote{\textbf{Q01-01$|$}}[0em]
+\textbf{\color{Blue}{Flagged:See comments.}} 
+	\begin{center}
+		\begin{tabular}{ll}
+			\hline
+			\hline
+			\#FileTag:C-Ch2-Q01-01.tex & 	\#SourceTag:Original\\ %change
+			\#AuthorTag:GJSnyder & \#UseTag:QuizExam\\ %change
+			\hline
+			\#AssignmentTag: & \#TermTag: \\ %add
+			\hline
+			\#TopicTag:BondCharacter & \\ %change
+			\hline
+			\#TypeTag:MultipleChoice & \\
+			\hline
+			\#CallisterProblems:C$|$2.25,C$|$2.26\\
+			\hline
+			\#FlagTag
+			\hline
+		\end{tabular}
+	\end{center}
+\end{FileID}
+
+%Begin Question----------------------------------------------
+The bonding in lithium nitride (\ce{Li3N}) is predominantly:
+\begin{choices}
+	\choice Covalent
+	\correctchoice Ionic
+	\choice Metallic
+	\choice Van der Waals
+\end{choices}
+
+%Solution---------------------------------------------------
+\begin{solution}
+
+The primary bond type in \ce{Li3N} is ionic. N is not a metal, so we can exclude metallic bonding as a predominant type. As a rule of thumb, a $\Delta X$ of 1.7 yields a bond with predominantly ionic character. 
+
+Or, the full calculation from the Pauling approximation for percent ionic character(\%IC): \%IC $= 100 \times (1-\exp{(-\frac{1}{4}(X_{\text{N}}-X_{\text{Li}})^2)})$, where $X$ indicates the electronegativity on the Pauling scale. $X_\text{N}-X_{\text{Li}} = 2$ so \%IC $= 100 \times (1-\exp{(-1)}) = 100 \times 1-\frac{1}{e} \cong 70\%$. So, mostly ionic.
+
+\end{solution}
+%
+%Rubric----------------------------------------------
+\begin{rubric}
+	\begin{enumerate}
+		\item Give 25\% pts for covalent.
+	\end{enumerate}
+\end{rubric}
+
+%%Outcomes-------------------------------------------------
+\begin{outcomes}
+
+The most common error is covalent.
+
+\begin{center}
+	\begin{tabular}{cccc}
+		\hline\hline
+		Class-Term Used & Term Instructor & Assessment & Full/Partial/No Credit \\
+		\hline
+		- & - & - & -\%/-\%/-\%\\    %change
+		\hline
+	\end{tabular}
+\end{center}
+
+\end{outcomes}
+%
+%Comments---------------------------------------------------
+\begin{comments}
+
+This is one of the only 
+
+A point of confusion may be the Li to N ratio. JDE typically limits these calculation to 1-1 stoichiometry as to avoid this confusion.
+
+This approximation can be used for simple bonds, but in more complex compounds we must consider all bonds formed. Regardless, this analysis works with 10\% of measured values even for more complex compounds [cite].
+
+If C$|$2.26 is assigned and the point is made that \ce{Al6Mn} can be well-approximated by assuming a 1-1 stoiciometry, then this problem is acceptable.
+\end{comments}

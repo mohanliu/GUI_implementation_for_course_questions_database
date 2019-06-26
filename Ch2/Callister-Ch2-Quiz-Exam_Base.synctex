@@ -1,0 +1,476 @@
+SyncTeX Version:1
+Input:1:C:\Users\Jonathan Emery\Documents\Northwestern-Lecturer\Coursework\Course Documents\MAT_SCI 201 Question Bank\Quiz-Exam\MultipleChoice\v0\Ch2\Callister-Ch2-Quiz-Exam_Base.tex
+Input:2:C:\Program Files\MiKTeX 2.9\tex\latex\exam\exam.cls
+Input:3:C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+Input:4:C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+Input:5:C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo
+Input:6:C:\Local TeX Files\tex\latex\misc\jde_course.sty
+Input:7:C:\Program Files\MiKTeX 2.9\tex\latex\ulem\ulem.sty
+Input:8:C:\Program Files\MiKTeX 2.9\tex\latex\xltxtra\xltxtra.sty
+Input:9:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+Input:10:C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+Input:11:C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.sty
+Input:12:C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+Input:13:C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex
+Input:14:C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3xdvipdfmx.def
+Input:15:C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+Input:16:C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec-xetex.sty
+Input:17:C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
+Input:18:C:\Program Files\MiKTeX 2.9\tex\latex\euenc\eu1enc.def
+Input:19:C:\Program Files\MiKTeX 2.9\tex\latex\euenc\eu1lmr.fd
+Input:20:C:\Program Files\MiKTeX 2.9\tex\xelatex\xunicode\xunicode.sty
+Input:21:C:\Program Files\MiKTeX 2.9\tex\latex\tipa\t3enc.def
+Input:22:C:\Program Files\MiKTeX 2.9\tex\latex\euenc\eu1lmss.fd
+Input:23:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+Input:24:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+Input:25:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+Input:26:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+Input:27:C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg
+Input:28:C:\Program Files\MiKTeX 2.9\tex\xelatex\xetex-def\xetex.def
+Input:29:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+Input:30:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+Input:31:C:\Program Files\MiKTeX 2.9\tex\latex\fontspec\fontspec.cfg
+Input:32:C:\Program Files\MiKTeX 2.9\tex\latex\realscripts\realscripts.sty
+Input:33:C:\Program Files\MiKTeX 2.9\tex\latex\metalogo\metalogo.sty
+Input:34:C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty
+Input:35:C:\Program Files\MiKTeX 2.9\tex\latex\sectsty\sectsty.sty
+Input:36:C:\Program Files\MiKTeX 2.9\tex\latex\datetime\datetime.sty
+Input:37:C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+Input:38:C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fmtcount.sty
+Input:39:C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+Input:40:C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+Input:41:C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
+Input:42:C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fcprefix.sty
+Input:43:C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fcnumparser.sty
+Input:44:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+Input:45:C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fc-english.def
+Input:46:C:\Program Files\MiKTeX 2.9\tex\latex\datetime\datetime-defaults.sty
+Input:47:C:\Program Files\MiKTeX 2.9\tex\latex\datenumber\datenumber.sty
+Input:48:C:\Program Files\MiKTeX 2.9\tex\latex\datenumber\datenumberUSenglish.ldf
+Input:49:C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty
+Input:50:C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def
+Input:51:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grffile.sty
+Input:52:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+Input:53:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+Input:54:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+Input:55:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+Input:56:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+Input:57:C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty
+Input:58:C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty
+Input:59:C:\Program Files\MiKTeX 2.9\tex\latex\datatool\datatool.sty
+Input:60:C:\Program Files\MiKTeX 2.9\tex\latex\xfor\xfor.sty
+Input:61:C:\Program Files\MiKTeX 2.9\tex\latex\substr\substr.sty
+Input:62:C:\Program Files\MiKTeX 2.9\tex\latex\datatool\datatool-base.sty
+Input:63:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+Input:64:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+Input:65:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+Input:66:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+Input:67:C:\Program Files\MiKTeX 2.9\tex\latex\datatool\datatool-fp.sty
+Input:68:C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp.sty
+Input:69:C:\Program Files\MiKTeX 2.9\tex\latex\fp\defpattern.sty
+Input:70:C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-basic.sty
+Input:71:C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-addons.sty
+Input:72:C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-snap.sty
+Input:73:C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-exp.sty
+Input:74:C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-trigo.sty
+Input:75:C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-pas.sty
+Input:76:C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-random.sty
+Input:77:C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-eqn.sty
+Input:78:C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-upn.sty
+Input:79:C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-eval.sty
+Input:80:C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+Input:81:C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty
+Input:82:C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+Input:83:C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg
+Input:84:C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty
+Input:85:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def
+Input:86:C:\Program Files\MiKTeX 2.9\tex\latex\soul\soul.sty
+Input:87:C:\Program Files\MiKTeX 2.9\tex\latex\ms\ragged2e.sty
+Input:88:C:\Program Files\MiKTeX 2.9\tex\latex\ms\everysel.sty
+Input:89:C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty
+Input:90:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+Input:91:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+Input:92:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+Input:93:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+Input:94:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+Input:95:C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+Input:96:C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+Input:97:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hxetex.def
+Input:98:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\puenc.def
+Input:99:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\stringenc.sty
+Input:100:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+Input:101:C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+Input:102:C:\Program Files\MiKTeX 2.9\tex\xelatex\xetexconfig\geometry.cfg
+Input:103:C:\Program Files\MiKTeX 2.9\tex\latex\base\fix-cm.sty
+Input:104:C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def
+Input:105:C:\Program Files\MiKTeX 2.9\tex\latex\vwcol\vwcol.sty
+Input:106:C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
+Input:107:C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty
+Input:108:C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty
+Input:109:C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty
+Input:110:C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xfrac\xfrac.sty
+Input:111:C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+Input:112:C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xtemplate\xtemplate.sty
+Input:113:C:\Program Files\MiKTeX 2.9\tex\latex\jknappen\mathrsfs.sty
+Input:114:C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty
+Input:115:C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty
+Input:116:C:\Program Files\MiKTeX 2.9\tex\latex\mhchem\mhchem.sty
+Input:117:C:\Program Files\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3regex.sty
+Input:118:C:\Program Files\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3tl-build.sty
+Input:119:C:\Program Files\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3tl-analysis.sty
+Input:120:C:\Program Files\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3flag.sty
+Input:121:C:\Program Files\MiKTeX 2.9\tex\latex\l3experimental\l3str\l3str-convert.sty
+Input:122:C:\Program Files\MiKTeX 2.9\tex\latex\chemgreek\chemgreek.sty
+Input:123:C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+Input:124:C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+Input:125:C:\Program Files\MiKTeX 2.9\tex\latex\arydshln\arydshln.sty
+Input:126:C:\Program Files\MiKTeX 2.9\tex\latex\cancel\cancel.sty
+Input:127:C:\Program Files\MiKTeX 2.9\tex\latex\was\upgreek.sty
+Input:128:C:\Program Files\MiKTeX 2.9\tex\latex\pbox\pbox.sty
+Input:129:C:\Program Files\MiKTeX 2.9\tex\latex\needspace\needspace.sty
+Input:130:C:\Program Files\MiKTeX 2.9\tex\latex\units\units.sty
+Input:131:C:\Program Files\MiKTeX 2.9\tex\latex\units\nicefrac.sty
+Input:132:C:\Program Files\MiKTeX 2.9\tex\latex\unicode-math\unicode-math.sty
+Input:133:C:\Program Files\MiKTeX 2.9\tex\latex\ucharcat\ucharcat.sty
+Input:134:C:\Program Files\MiKTeX 2.9\tex\latex\filehook\filehook.sty
+Input:135:C:\Program Files\MiKTeX 2.9\tex\latex\unicode-math\unicode-math-xetex.sty
+Input:136:C:\Program Files\MiKTeX 2.9\tex\latex\unicode-math\unicode-math-table.tex
+Input:137:C:\Program Files\MiKTeX 2.9\tex\latex\adforn\adforn.sty
+Input:138:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\pifont.sty
+Input:139:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upzd.fd
+Input:140:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upsy.fd
+Input:141:C:\Program Files\MiKTeX 2.9\tex\latex\adforn\uornementsadf.fd
+Input:142:C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty
+Input:143:C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty
+Input:144:C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty
+Input:145:C:\Program Files\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty
+Input:146:C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\tc-xetex.def
+Input:147:C:\Program Files\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty
+Input:148:C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty
+Input:149:C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty
+Input:150:C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty
+Input:151:C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\ppxetex.def
+Input:152:C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
+Input:153:C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty
+Input:154:C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty
+Input:155:C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty
+Input:156:C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty
+Input:157:C:\Program Files\MiKTeX 2.9\tex\latex\marginnote\marginnote.sty
+Input:158:C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty
+Input:159:C:\Program Files\MiKTeX 2.9\tex\latex\mdwtools\mdwlist.sty
+Input:160:C:\Program Files\MiKTeX 2.9\tex\latex\sidecap\sidecap.sty
+Input:161:C:\Program Files\MiKTeX 2.9\tex\latex\verbatimbox\verbatimbox.sty
+Input:162:C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty
+Input:163:C:\Program Files\MiKTeX 2.9\tex\latex\readarray\readarray.sty
+Input:164:C:\Program Files\MiKTeX 2.9\tex\latex\ifnextok\ifnextok.sty
+Input:165:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty
+Input:166:C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty
+Input:167:C:\Program Files\MiKTeX 2.9\tex\latex\media9\media9.sty
+Input:168:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\atenddvi.sty
+Input:169:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\zref-abspage.sty
+Input:170:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\zref-base.sty
+Input:171:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\zref-lastpage.sty
+Input:172:C:\Program Files\MiKTeX 2.9\tex\latex\media9\pdfbase.sty
+Input:173:C:\Program Files\MiKTeX 2.9\tex\latex\ocgx2\ocgbase.sty
+Input:174:C:\Users\Jonathan Emery\Documents\Northwestern-Lecturer\Coursework\Course Documents\MAT_SCI 201 Question Bank\Quiz-Exam\MultipleChoice\v0\Ch2\Callister-Ch2-Quiz-Exam_Base.aux
+Input:175:C:\Program Files\MiKTeX 2.9\tex\latex\tipa\t3cmr.fd
+Input:176:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+Input:177:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+Input:178:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty
+Input:179:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty
+Input:180:C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd
+Input:181:C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+Input:182:C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+Input:183:C:\Program Files\MiKTeX 2.9\tex\latex\euenc\eu1lmtt.fd
+Input:184:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\se-ascii-print.def
+Output:pdf
+Magnification:1000
+Unit:1
+X Offset:0
+Y Offset:0
+Content:
+!12968
+{1
+[1,80:4736287,49263412:30785865,44527125,0
+(1,80:4736287,4736287:0,0,0
+)
+(1,80:4736287,49263412:30785865,44527125,0
+[1,80:4736287,49263412:30785865,44527125,0
+(1,80:4736287,4736287:0,0,0
+[1,80:0,4736287:30785865,0,0
+(1,80:0,0:30785865,0,0
+h1,80:0,0:0,0,0
+(1,80:0,0:0,0,0
+(1,80:0,0:0,0,0
+g1,80:0,0
+(1,80:0,0:0,0,52099153
+(1,80:0,52099153:0,0,0
+g1,80:0,52099153
+)
+)
+g1,80:0,0
+)
+)
+k1,80:30785864,0:30785864
+g1,80:30785864,0
+)
+]
+)
+[1,80:4736287,4736287:0,0,0
+(1,80:4736287,2704426:0,0,0
+k1,80:4736287,2704426:65781
+)
+]
+[1,80:4736287,49263412:30785865,44527125,0
+[1,80:4736287,49263412:30785865,46493205,0
+[1,80:4736287,3753247:30785865,983040,0
+(1,80:4736287,3753247:30785865,983040,0
+(1,80:4736287,3753247:30785865,983040,0
+[1,80:4736287,3753247:30785865,983040,0
+(1,80:4736287,3459644:30785865,623900,267389
+(1,80:4736287,3459644:0,504625,216271
+[1,80:4736287,3459644:30785865,504625,216271
+(1,80:4736287,3459644:30785865,504625,216271
+h1,80:4736287,3459644:0,0,0
+g1,80:7304971,3459644
+g1,80:8476754,3459644
+g1,80:10833691,3459644
+g1,80:11845042,3459644
+g1,80:12211912,3459644
+g1,80:15314386,3459644
+r1,80:17880121,3459644:0,720896,216271
+k1,80:26701137,3459644:8821016
+k1,80:35522153,3459644:8821016
+)
+]
+k1,80:4736288,3459644:-30785864
+)
+g1,80:4736287,3459644
+[1,80:4736287,3459644:30785865,623900,267389
+(1,80:4736287,3459644:30785865,623900,267389
+k1,80:20129219,3459644:15392932
+h1,80:20129219,3459644:0,0,0
+r1,80:20129219,3459644:0,891289,267389
+g1,80:20129219,3459644
+k1,80:35522151,3459644:15392932
+)
+]
+g1,80:35522152,3459644
+(1,80:35522152,3459644:0,504625,216271
+k1,80:4736288,3459644:-30785864
+[1,80:4736288,3459644:30785865,504625,216271
+(1,80:4736288,3459644:30785865,504625,216271
+k1,80:35522152,3459644:30785864
+h1,80:35522152,3459644:0,0,0
+r1,80:35522152,3459644:0,720896,216271
+g1,80:35522152,3459644
+g1,80:35522152,3459644
+)
+]
+)
+)
+]
+)
+)
+]
+[1,80:4736287,47362868:30785865,42626581,0
+(1,63:4736287,5567514:30785865,831227,177796
+h1,61:4736287,5567514:0,0,0
+g1,61:7354540,5567514
+g1,61:12190154,5567514
+g1,61:13927351,5567514
+g1,61:18452670,5567514
+g1,61:20394465,5567514
+g1,61:21229107,5567514
+k1,63:35522152,5567514:14293045
+g1,63:35522152,5567514
+)
+(1,69:4736287,7083853:30785865,0,0
+h1,65:4736287,7083853:0,0,0
+k1,66:35522151,7083853:30785864
+g1,69:35522151,7083853
+)
+(1,69:4736287,7975143:30785865,0,0
+g1,69:4736287,7975143
+)
+(1,72:4736287,9312078:30785865,538214,179404
+h1,71:4736287,9312078:0,0,0
+k1,71:5891259,9312078:217762
+k1,71:8663028,9312078:217763
+k1,71:10044050,9312078:217762
+k1,71:11418615,9312078:217763
+k1,71:14395622,9312078:217762
+k1,71:16028529,9312078:217762
+k1,71:17701623,9312078:217763
+k1,71:23065431,9312078:217762
+k1,71:24040999,9312078:217762
+k1,71:24827116,9312078:217763
+k1,71:27343913,9312078:311554
+k1,71:30079800,9312078:217762
+k1,71:32530793,9312078:217763
+k1,71:33316909,9312078:217762
+k1,71:35522152,9312078:0
+)
+(1,72:4736287,10203368:30785865,505921,147829
+g1,71:5543608,10203368
+g1,71:9182654,10203368
+g1,71:9989975,10203368
+g1,71:12584168,10203368
+g1,71:13979937,10203368
+g1,71:16437782,10203368
+g1,71:19288165,10203368
+k1,72:35522152,10203368:12953750
+g1,72:35522152,10203368
+)
+(1,74:4736287,11540303:30785865,505921,147829
+h1,73:4736287,11540303:0,0,0
+k1,73:8400304,11540303:277573
+k1,73:9636615,11540303:277572
+k1,73:12570814,11540303:277573
+k1,73:14487429,11540303:277573
+k1,73:19619299,11540303:287224
+k1,73:21711013,11540303:277573
+k1,73:24528956,11540303:277572
+k1,73:25803302,11540303:277573
+k1,73:27755080,11540303:277573
+k1,73:30468970,11540303:277573
+k1,73:31606250,11540303:277572
+k1,73:33083682,11540303:277573
+k1,73:35522152,11540303:0
+)
+(1,74:4736287,12431593:30785865,513815,139217
+k1,73:6377771,12431593:245715
+k1,73:8656501,12431593:245715
+k1,73:10341760,12431593:245715
+k1,73:12182025,12431593:245716
+k1,73:13065703,12431593:245715
+k1,73:14308191,12431593:245715
+k1,73:17107912,12431593:245715
+k1,73:18607169,12431593:338867
+k1,73:19673840,12431593:245715
+k1,73:21155295,12431593:245715
+k1,73:24237758,12431593:245715
+k1,73:25442212,12431593:245715
+k1,73:27763533,12431593:247402
+k1,73:29169639,12431593:245716
+k1,73:31175673,12431593:245715
+k1,73:33459426,12431593:245715
+k1,73:34442853,12431593:245715
+k1,73:35522152,12431593:0
+)
+(1,74:4736287,13322883:30785865,505921,139217
+g1,73:5613217,13322883
+g1,73:8167223,13322883
+g1,73:9402963,13322883
+g1,73:11160412,13322883
+g1,73:14668851,13322883
+g1,73:17106603,13322883
+g1,73:17923971,13322883
+g1,73:19159711,13322883
+k1,74:35522152,13322883:13326195
+g1,74:35522152,13322883
+)
+(1,76:4736287,14686032:30785865,669778,139197
+h1,75:4736287,14686032:0,0,0
+g1,75:6259606,14686032
+g1,75:9796977,14686032
+g1,75:12094145,14686032
+g1,75:13399622,14686032
+g1,75:16509960,14686032
+g1,75:17451319,14686032
+g1,75:18539478,14686032
+g1,75:21021457,14686032
+$1,75:21855861,14686032
+(1,75:21855861,14400557:547619,384303,5242
+)
+$1,75:22403480,14686032
+g1,75:22567844,14686032
+g1,75:24496175,14686032
+g1,75:26305755,14686032
+g1,75:27310581,14686032
+k1,76:35522152,14686032:6459400
+g1,76:35522152,14686032
+)
+(1,78:4736287,16049181:30785865,553648,161218
+h1,77:4736287,16049181:0,0,0
+g1,77:8295679,16049181
+g1,77:9579136,16049181
+g1,77:13044942,16049181
+g1,77:14606796,16049181
+k1,78:35522152,16049181:18471912
+g1,78:35522152,16049181
+)
+]
+(1,80:4736287,49263412:30785865,0,0
+(1,80:4736287,49263412:30785865,0,0
+[1,80:4736287,49263412:30785865,0,0
+(1,80:4736287,49928602:30785865,442368,147456
+(1,80:4736287,49928602:0,442368,147456
+[1,80:4736287,49928602:30785865,442368,147456
+(1,80:4736287,49928602:30785865,442368,147456
+h1,80:4736287,49928602:0,0,0
+g1,80:8575451,49928602
+$1,80:8575451,49928602
+$1,80:8739422,49928602
+g1,80:8862695,49928602
+g1,80:11492720,49928602
+g1,80:13632011,49928602
+g1,80:14776859,49928602
+k1,80:26787447,49928602:8734705
+k1,80:35522152,49928602:8734705
+)
+]
+k1,80:4736288,49928602:-30785864
+)
+k1,80:20129219,49928602:15392932
+v1,80:20129219,49928602:0,0,0
+k1,80:35522151,49928602:15392932
+(1,80:35522151,49928602:0,382796,0
+k1,80:4736287,49928602:-30785864
+[1,80:4736287,49928602:30785865,382796,0
+(1,80:4736287,49928602:30785865,382796,0
+k1,80:35278555,49928602:30542268
+h1,80:35278555,49928602:0,0,0
+g1,80:35522152,49928602
+g1,80:35522152,49928602
+)
+]
+)
+)
+]
+)
+)
+]
+]
+(1,80:4736287,4736287:0,0,0
+[1,80:0,4736287:30785865,0,0
+(1,80:0,0:30785865,0,0
+h1,80:0,0:0,0,0
+(1,80:0,0:0,0,0
+(1,80:0,0:0,0,0
+g1,80:0,0
+(1,80:0,0:0,0,52099153
+(1,80:0,52099153:0,0,0
+g1,80:0,52099153
+)
+)
+g1,80:0,0
+)
+)
+k1,80:30785864,0:30785864
+g1,80:30785864,0
+)
+]
+)
+]
+h1,80:35522152,49263412:0,0,0
+)
+]
+!6509
+}1
+Input:185:C:\Users\Jonathan Emery\Documents\Northwestern-Lecturer\Coursework\Course Documents\MAT_SCI 201 Question Bank\Quiz-Exam\MultipleChoice\v0\Ch2\Callister-Ch2-Quiz-Exam_Base.aux
+!194
+Postamble:
+Count:264
+!26
+Post scriptum:

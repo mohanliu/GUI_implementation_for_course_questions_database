@@ -1,0 +1,66 @@
+%%
+\ifexam
+	\part[2]
+	\else
+	\question[2]
+\fi
+%Begin Question----------------------------------------------------
+You are selecting a material that requires low thermal conductivity ($k$) and high Young's modulus ($E$) according to the materials index: $M = \frac{E^{\frac{1}{2}}}{k}$
+
+Draw \emph{one contour line} corresponding to this materials index on Fig. \ref{fig:StiffInsulate}.
+%
+
+\begin{figure}[H]%
+	\centering
+	\includegraphics[width=\columnwidth]{StiffInsulating}%
+	\caption{An Ashby plot of $E$ vs $k$}%
+	\label{fig:StiffInsulate}%
+\end{figure}
+
+
+\begin{solution}
+
+You can approach this one of two ways. The easier one is to recognize that the $k$ value is on the $y$-axis and the $E$ value is on the $x$-axis. So, we can put it in the form $y^a/x^b$. To put the materials index in this form we represent it as $k^{-1}/E^{-1/2}$ (remember to observe what is plotted on each axis). Therefore the slope on the log-log plot is $b/a = \frac{-1/2}{-1} = 1/2$.
+
+Alternatively, you can just work it out:
+%
+\begin{align*}
+	M &= \frac{E^{1/2}}{k}\\
+	\text{log}(M) &= \frac{1}{2}\text{log}(E)-\text{log}(k)\\
+	\text{log}(k) &= \frac{1}{2}\text{log}(E)-\text{log}(M)\\	
+	\intertext{which is in the form $log(Y) = m\,log(X)+b$, with $m = 1/2$. The drawing for this slope is shown in the solution figure.}
+\end{align*} 
+%
+\includegraphics[width=\columnwidth]{Ashby-MC-Q2-2_Sol}
+
+\end{solution}
+
+%Rubric--------------------------------------------------------------------------------
+\begin{rubric}
+	\begin{enumerate}
+		\item Pay attention to work. Up to 50\% for good work but wrong answer... Many will get a slope of 2. If they show work, that's worth 50\%.
+	\end{enumerate}
+
+\end{rubric}
+
+
+%Outcomes--------------------------------------------------
+\begin{outcomes}
+Many got the inverse slope.
+
+	\begin{center}
+		\begin{tabular}{ccc|ccc}
+			\hline\hline
+			Class-Term Used & Term Instructor & Assessment & Full Credit & Partial Credit & No Credit\\
+			\hline
+			201-W16 & Emery & QuizL10-2 & 80\% & 20\% & 0\%\\    %change			\hline
+		\end{tabular}
+	\end{center}
+\end{outcomes}
+
+%Comments-------------------------------------------------------------------
+\begin{comments}
+
+Paired with Ashby-MC-2-2b. Need more of these!
+
+\end{comments}

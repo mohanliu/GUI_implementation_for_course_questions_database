@@ -1,0 +1,68 @@
+%%
+\ifexam
+	\part[2]
+	\else
+	\question[2]
+\fi
+%Begin Question----------------------------------------------------
+You are selecting a material that requires a small refractive index thermal conductivity ($n$) and large yield strength ($\sigma_y$). You will select you material according to the materials index: $M = \sigma_y n^{2}$
+
+Draw \emph{one contour line} corresponding to this materials index on Fig. \ref{fig:StiffInsulate}.
+%
+
+\begin{figure}[H]%
+	\centering
+	\includegraphics[width=\columnwidth]{Ashby-S-Q2-3}%
+	\caption{An Ashby plot of $\sigma_y$ vs $n$}%
+	\label{fig:Ashby-S-Q2-3}%
+\end{figure}
+
+
+\begin{solution}
+
+You can approach this one of two ways. The easier one is to recognize that the $n$ value is on the $y$-axis and the $\sigma_y$ value is on the $x$-axis. So, we can put it in the form $y^a/x^b$. 
+
+To put the materials index in this form we represent it as $\sigma_y n^{2}$ (remember to observe what variable is plotted on each axis). The slope on the log-log plot is $b/a = -\frac{1}{2} = -1/2$.
+
+Alternatively, you can just work it out:
+%
+\begin{align*}
+	M &= \sigma^{1}n^{2}\\
+	\text{log}(M) &= \text{log}(\sigma_y)+2\text{log}(n)\\
+	\text{log}(n) &= -\frac{1}{2}\text{log}(E)+\frac{1/2}\text{log}(M)\\	
+	\intertext{which is in the form $\mathrm{log}(Y) = m\,\mathrm{log}(X)+b$, with $m = 1/2$. The drawing for this slope is shown in the solution figure.}
+\end{align*} 
+%
+\includegraphics[width=\columnwidth]{Ashby-MC-Q2-3_Sol}
+
+\end{solution}
+
+%Rubric--------------------------------------------------------------------------------
+\begin{rubric}
+	\begin{enumerate}
+		\item Up to 50\% for good work but wrong answer... many will get a slope of 2. If they show work, that's worth 50\%.
+	\end{enumerate}
+
+\end{rubric}
+
+
+%Outcomes--------------------------------------------------
+\begin{outcomes}
+Many got the inverse slope.
+
+	\begin{center}
+		\begin{tabular}{ccc|ccc}
+			\hline\hline
+			Class-Term Used & Term Instructor & Assessment & Full Credit & Partial Credit & No Credit\\
+			\hline
+			201-W16 & Emery & QuizL10-2 & 80\% & 20\% & 0\%\\    %change			\hline
+		\end{tabular}
+	\end{center}
+\end{outcomes}
+
+%Comments-------------------------------------------------------------------
+\begin{comments}
+
+Paired with Ashby-MC-2-2b. Need more of these!
+
+\end{comments}

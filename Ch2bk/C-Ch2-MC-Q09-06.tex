@@ -1,0 +1,107 @@
+%
+\ifexam
+	\part[2]
+	\else
+	\question[2]
+\fi 
+%
+%Begin Question---------------------------------
+You and a friend have a very useful magical power: you can change ions' charges and radii by will and measure interatomic forces!
+
+You are competing with your friend to measure the largest force of attraction between two ions. You begin by measuring the attractive force between a divalent cation and a divalent anion (charges of 2+ and 2-, respectively), each of which have ionic radii of 1 nm.
+
+Of the actions below, which would result in the largest measured \emph{attractive} force?
+
+\begin{choices}
+	\choice Changing the cation charge to 4+.
+	\choice Tripling the cation radius and halving the anion radius.
+	\choice Doubling the cation radius and increasing the anion charge to 3-.
+	\choice Halving the anion radius and increasing the anion charge to 3-.
+\choice Converting the cation into an anion.
+\choice No change, the original configuration will give the greatest force.
+\end{choices}
+
+%FileID-------------------------------------------------
+\begin{FileID}
+	\begin{center}
+		\begin{tabular}{ll}
+			\hline
+			\hline
+			\#FileTag:C-Ch2-MC-Q9-6.tex & 	\#SourceTag:Original\\ %change
+			\#AuthorTag:JDEmery & \#UseTag:QuizExam\\ %change
+			\hline
+			\#AssignmentTag:QuizD2 & \#TermTag:W17 \\ %add
+			\hline
+			\#TopicTag:InteratomicBonding & \\ %change
+			\hline
+			\#TypeTag:MultipleChoice & \\
+			\hline
+		\end{tabular}
+	\end{center}
+\end{FileID}
+
+%Solution-------------------------------------------
+\begin{solution}
+
+We need to play around with the Coulombic force to find this value: 
+
+\[F_{A} = \frac{1}{4\pi \epsilon_{0}r^{2}}(|Z_{1}|e)(|Z_{2}|e)\]. 
+
+We're looking for relative changes, so we can simply calculate any changes as 
+
+\begin{align*}
+\frac{F_{A\text{,}f}}{F_{A\text{,}i}} &= \frac{|Z_{1\text{,}f}||Z_{2\text{,}f}|(r_{\text{cation},i}+r_{\text{anion,}i})^2}{(|Z_{1\text{,}i}||Z_{2\text{,}i}|(r_{\text{cation},f}+r_{\text{anion,}f})^{2}}\\
+&= \frac{\unit[4]{nm^2}}{4}\frac{|Z_{1\text{,}f}||Z_{2\text{,}f}|}{(r_{\text{cation},f}+r_{\text{anion,}f})^2}\\
+\frac{F_{A\text{,}f}}{F_{A\text{,}i}} &= \unit[1]{nm^2}\frac{|Z_{1\text{,}f}||Z_{2\text{,}f}|}{(r_{\text{cation},f}+r_{\text{anion,}f})^2}
+\end{align*}
+
+We can see quickly that if we increase ionic charges (but make sure they are opposite!) the force increases. So, we want to maximize $|Z_{1\text{,}f}||Z_{2\text{,}f}|$ and minimize $(r_{\text{cation},f}+r_{\text{anion,}f})$.
+
+Changing the cation to an anion would cause a repulsive force and is not the answer we're looking for. That's out.
+
+Changing the cation charge to 4+ gives us a factor of two, which isn't bad. This also means the original situation is not the best solution. 
+
+Next, we notice that tripling the radius of the cation and halving the radius of the anion gives us a larger radius overall (3.5 nm vs 2 nm) and will therefore a lesser force. Out.
+
+The last two options are easy to compare because they are opposite: they both increase the ionic charge, but one decreases the radius (which will increase the force of attraction) while the other one increases the radius (which will drop the force of attraction). Let's check the better solution to see if it beats $2\times$:
+
+\begin{align*}
+\frac{F_{A\text{,}f}}{F_{A\text{,}i}} &= \unit[1]{nm^{2}}\frac{6}{(\unit[\frac{3}{2}]{nm})^2}\\
+&= \frac{\unit[8]{\cancel{nm^2}}}{\unit[3]{\cancel{nm^2}}}\\
+\frac{F_{A\text{,}f}}{F_{A\text{,}i}} &= 2\frac{2}{3}
+\end{align*}
+
+That's the one! \fbox{Halve the anion radius but increase the anion charge to 3+.}
+
+\end{solution}
+
+%Rubric---------------------------------------------------
+\begin{rubric}
+
+\begin{itemize}
+	\item If they get the wrong answer, give up to 50\% pts for good work.
+	\item If they only write down the starting equation correctly and can't take it further correctly, give 25\% pts.
+	\item 25\% pts without work but getting a solution that increases the force.
+\end{itemize}
+
+\end{rubric}
+
+%Outcomes--------------------------------------------------
+\begin{outcomes}
+	\begin{center}
+		\begin{tabular}{cccc}
+			\hline\hline
+			Class-Term Used & Term Instructor & Assessment & Percent Correct\\
+			\hline
+			201-W17 & Emery & QuizD2 & 95\%\\    %change
+			\hline
+		\end{tabular}
+	\end{center}
+\end{outcomes}
+
+%Comments-------------------------------------------------
+\begin{comments}
+
+A longer problem, but most students get this correct because they can plug the numbers in to an equation. The ones that got it wrong probably got energy instead of force.
+	
+\end{comments}

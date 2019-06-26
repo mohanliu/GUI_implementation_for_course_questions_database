@@ -1,0 +1,9 @@
+*~
+*swp
+.DS_Store
+*pyc
+*.spec
+dist
+build
+*path_to_folders
+QuestionDatabase/_path_to_folders

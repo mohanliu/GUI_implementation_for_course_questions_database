@@ -1,0 +1,88 @@
+%
+%FileID-------------------------------------------------
+\begin{FileID}
+\marginnote{\textbf{Q01-04$|$}}[0em]
+	\begin{center}
+		\begin{tabular}{ll}
+			\hline
+			\hline
+			\#FileTag:C-Ch2-MC-Q01-04.tex & 	\#SourceTag:Original\\ %change
+			\#AuthorTag:JDEmery & \#UseTag:QuizExam\\ %change
+			\hline
+			\#AssignmentTag: & \#TermTag: \\ %add
+			\hline
+			\#TopicTag:Bondtype & \#TopicTag:MaterialsClass\\ %change
+			\hline
+			\#TypeTag:MultipleChoice & \\
+			\hline
+		\end{tabular}
+	\end{center}
+\end{FileID}
+%
+\ifexam
+	\part[2]
+	\else
+	\question[2]
+\fi 
+%
+%Begin Question---------------------------------
+Niobium carbide (NbC) is a material that is commonly used in cutting tools and to strengthen steels. The bonding in NbC is predominantly of which type?
+
+\begin{choices}
+	\correctchoice Covalent
+	\choice Ionic
+	\choice Metallic
+	\choice van der Waals
+\end{choices}
+%
+
+%Solution------------------------------------------
+\begin{solution}
+
+Here we recognize that we have either a covalent or ionic bond, so we do the electronegativity test. We use Pauling's rule: $\%\mathrm{IC} = 100\% \times (1-\exp{[-\frac{(\Delta X)^{2}}{4}]})$ and plug in $\Delta X = 1$:
+%
+\begin{align*}
+	\%\mathrm{IC} &= 100\% \times (1-\exp{[-\frac{(\Delta X)^{2}}{4}]})\\
+	&= 100\% \times (1-\exp{[-\frac{1}{4}]})\\
+	&= 100\% \times (1-\frac{1}{e^{\frac{1}{4}}})\\
+	\intertext{So, I made a mistake here (I had meant for $\Delta X$ to be 2). But, if you remember your Taylor series, $e^x = 1+\frac{x}{1!}+\frac{x^2}{2!}+\frac{x^3}{3!}...$. So, $e^{\frac{1}{4}} = 1+\frac{\frac{1}{4}}{1!}+\frac{\frac{1}{4}^2}{2!}+\frac{\frac{1}{4}^3}{3!}$, but this series is dominated by the first and second terms, so $e^{\frac{1}{4}} = 1.25$.}
+	&= 100\% \times (1-\frac{4}{5})\\
+	\Aboxed{\%\mathrm{IC} &= 20\%}
+\end{align*}
+%
+That's mostly covalent. You can also use the $\Delta X = 1.7$ rule.
+
+%
+\end{solution}
+
+%Rubric---------------------------------------------------
+\begin{rubric}
+
+\begin{itemize}
+	\item Give 25\% pts for ionic. 
+	\item Give up to 50\% pts for good work. 
+\end{itemize}
+
+\end{rubric}
+
+%Outcomes--------------------------------------------------
+\begin{outcomes}
+	\begin{center}
+		\begin{tabular}{cccc}
+			\hline\hline
+		Class-Term Used & Term Instructor & Assessment & Full/Partial/No Credit \\
+			\hline
+			W16 & Emery & QuizD2 & Needs input\ignore{95\%/2\%/0\%}\\
+			\hline
+		\end{tabular}
+	\end{center}
+\end{outcomes}
+
+%Comments-------------------------------------------------
+\begin{comments}
+
+I gave full points for metallic because the students some students thought this could be an alloy --- they aren't yet familiar with the notation differentiating alloys (Nb-C) and compounds (NbC).
+
+Don't use this unless you a.) are using calculators on the quiz or b.) provide them with the form of the Taylor expansion.
+	
+\end{comments}

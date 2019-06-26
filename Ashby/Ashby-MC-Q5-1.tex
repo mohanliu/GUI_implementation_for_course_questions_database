@@ -1,0 +1,47 @@
+%%
+\ifexam
+	\part[2]
+	\else
+	\question[2]
+\fi
+%Begin Question----------------------------------------------------------------
+What is the value of the materials index $M_i = \frac{\sigma_{\text{TS}}^{1/2}}{\rho}$? Note: 1 Pa = $\unit[1]{kg/(m \cdot s^2)}$.
+
+\begin{multicols}{2}
+	\begin{choices}
+		\choice $\unit[10^3]{kg^{-1/2} m^{5/2} s^{-1}}$
+		\correctchoice $\unit[10^2]{kg^{-1/2} m^{5/2} s^{-1}}$
+		\choice $\unit[10^1]{kg^{-1/2} m^{5/2} s^{-1}}$
+		\choice $\unit[10^{0}]{kg^{-1/2} m^{5/2} s^{-1}}$
+		\choice $\unit[10^{-1}]{kg^{-1/2} m^{5/2} s^{-1}}$
+		\choice $\unit[10^{-2}]{kg^{-1/2} m^{5/2} s^{-1}}$
+	\end{choices}
+\end{multicols}
+
+%Solution-----------------------------------------------------------------------
+\begin{solution}
+
+We've defined our materials index of interest as $M_i = \frac{\sigma_{\text{TS}}^{1/2}}{\rho}$. We also note that every line passes through $\rho = \unit[10]{kg/m^3}$ and $\sigma_{TS} = \unit[1]{MPa}$. So, we can plug these number into our criterion and find $M_i$:
+
+\begin{align*}
+	M_i &= \frac{\sigma_{\text{TS}^{1/2}}}{\rho}\\
+	&= \frac{\unit[10^6]{kg /(m \cdot s^2)}^{1/2}}{\unit[10]{kg/m^3}}\\
+	M_i &= \frac{\unit[10^3]{kg^{1/2} /(m^{1/2} \cdot s)}}{\unit[10]{kg/m^3}}\\
+	M_i &= \unit[10^2]{kg^{-1/2} m^{5/2} s^{-1})}\\
+\end{align*} 
+
+\end{solution}
+
+\begin{rubric}
+
+ 2 pts for correct answer, 1 pt for good work.
+
+\end{rubric}
+
+\begin{outcomes}
+	
+\end{outcomes}
+
+\begin{comments}
+
+\end{comments}

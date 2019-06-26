@@ -1,0 +1,87 @@
+%%
+\ifexam
+	\part[2]
+	\else
+	\question[2]
+\fi 
+%
+% Begin question---------------------------------------------------
+In Figure \ref{fig:MaterialsSelectionPressure}, which plots two materials properties in an Ashby diagram, there are 6 lines drawn and labeled. Which line represents a materials selection index of $M_{\text{i}}=\alpha^{3/2}/\sigma_y^{3}$?
+
+\begin{choices}
+\choice Line 1
+\choice Line 2
+\choice Line 3
+\choice Line 4
+\correctchoice Line 5
+\choice Curve 6
+\end{choices}
+
+\begin{figure}[H]
+	\centering
+			\includegraphics[scale=0.5]{MaterialsSelectionPressure}
+		\caption{Plot of yield strength ($\sigma_y$) vs thermal expansion coefficient ($\alpha$).} 
+		\label{fig:MaterialsSelectionPressure}
+\end{figure}
+
+%FileID-------------------------------------------------
+\begin{FileID}
+	\begin{center}
+		\begin{tabular}{ll}
+			\hline
+			\hline
+			\#FileTag:Ashby-MC-Q8-2.tex & 	\#SourceTag:Original\\ %change
+			\#AuthorTag:JEmery & \#UseTag:QuizExam\\ %change
+			\hline
+			\#AssignmentTag:QuizD8 & \#TermTag:F16 \\ %add
+			\hline
+			\#TopicTag:MaterialsSelection & \\ %change
+			\hline
+			\#TypeTag:MutipleChoice & \\
+			\hline
+		\end{tabular}
+	\end{center}
+\end{FileID}
+
+%Solution------------------------------------------------
+\begin{solution}
+
+On option is to just realize that if the number in the denominator is 1, you invert the power value in the denominator and you get your value. This is using the equation: $\text{slope} = \frac{1}{a}b$ if the index is $\frac{\alpha^{\frac{2}{3}}}{b}$ . $a = \frac{3}{2}$ and $b = 3$, the slope is two. This corresponds to slope \#5.
+
+Alternatively --- and students should be able to do this --- we can do the following:
+
+\begin{align*}
+	M_{\text{i}} &= \frac{\alpha^{3/2}}{\sigma_y^{3}}\\
+	\text{log}(M_{\text{i}}) &= \frac{3}{2} \text{log}(\alpha)-3\text{log}(\sigma_y)\\
+	\text{log}(\alpha) &= 2\text{log}(\sigma_y)-\frac{3}{2} \text{log}(M_{\text{i}})\\
+\end{align*}
+
+So the correct line is the one with slope 2. This is line \#2.
+
+\end{solution}
+
+%Rubric-------------------------------------------
+\begin{rubric}
+	Full points for Slope \#1, 50\% points for good work but the wrong answer.
+\end{rubric}
+
+%Outcomes------------------------------------------
+\begin{outcomes}
+	\begin{center}
+		\begin{tabular}{cccc}
+			\hline\hline
+			Class-Term Used & Term Instructor & Assessment & Percent Correct\\
+			\hline
+			201-F16 & Emery & QuizD8 & -\% Full -\%Partial \\
+			\hline
+		\end{tabular}
+	\end{center}
+\end{outcomes}
+
+%Comments
+\begin{comments}
+	Students haven't seen the thermal expansion parameter before, but it doesn't matter...
+	
+	This problem is directly related to A$|$5.02, A$|$5.03, A$|$5.04. It actually has the same form as A$|$5.04(a).
+\end{comments}
+

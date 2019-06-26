@@ -1,0 +1,98 @@
+%%
+\ifexam
+	\part[2]
+	\else
+	\question[1]
+\fi
+%
+%Begin Question--------------------------------------------------
+Materials in heat exchangers must have high yield strength ($\sigma_y$) and high thermal conductivity ($\lambda$). The materials index used during selection of a material for a heat exchanger is $M = \sigma_y \lambda$.
+
+Draw one contour line on the graph below corresponding to this materials index.
+%
+%
+\begin{figure}[h]%
+	\centering
+	\includegraphics[width=0.8\columnwidth]{MaterialsSelectionHeatExchanger}%
+	\caption{An Ashby Diagram}%
+\end{figure}
+
+%FileID-------------------------------------------------
+\begin{FileID}
+	\begin{center}
+		\begin{tabular}{ll}
+			\hline
+			\hline
+			\#FileTag:Ashby-MC-Q11-1.tex & 	\#SourceTag:Original\\ %change
+			\#AuthorTag:JEmery & \#UseTag:QuizExam\\ %change
+			\hline
+			\#AssignmentTag:Midterm3 & \#TermTag:W16 \\ %add
+			\#AssignmentTag:Midterm2 & \#TermTag:F16 \\ %add
+			\hline
+			\#TopicTag: & \#TopicTag:MaterialsSelection\\ %change
+			\hline
+			\#TypeTag:MultipleChoice & \#TypeTag:LearningCatalytics\\
+			\hline
+		\end{tabular}
+	\end{center}
+\end{FileID}
+%
+%Solution----------------------------------
+\begin{solution}
+
+The easiest way to do this is to us the $y^a/x^b \rightarrow b/a$ process. The steps are:
+
+\begin{enumerate}
+	\item Identify the materials properties on the $y$- and $x$-axes.
+	\item Rearrange the equation to have $y^a/x^b$
+	\item Calculate the $b/a$ slope.
+	\item Plot one contour line on the log-log plot.
+\end{enumerate}
+
+Here we have:
+
+\begin{enumerate}
+	\item $\sigma_y$ on the $y$-axis. $\lambda$ on the $x$-axis.
+	\item Rearranged to $y^a/x^b = \sigma_y^1/\lambda^{-1}$, so $a = 1$ and $b= -1$. 
+	\item The slope is $b/a = -1$.
+	\item Draw, applying the slope to each \emph{decade}
+\end{enumerate}
+
+\begin{figure}[h]%
+	\centering
+	\includegraphics[width=0.8\columnwidth]{MaterialsSelectionHeatExchanger_Sol}%
+	\caption{An Ashby Diagram}%
+\end{figure}
+
+\end{solution}
+
+%Rubric------------------------------------
+\begin{rubric}
+
+\begin{itemize}
+	\item Full pts for range in materials properties. 
+	\item 25\% pts for any other selection. These are not entirely wrong.
+\end{itemize}
+
+\end{rubric}
+
+%Outcomes--------------------------------------------------
+\begin{outcomes}
+	\begin{center}
+		\begin{tabular}{cccc}
+		\hline\hline
+			Class-Term Used & Term Instructor & Assessment & Percent Correct\\
+			\hline
+			201-W16 & Emery & Midterm3 & \%\\    %change
+			201-F16 & Emery & Midterm2 & 60\% Full\%\\    %change
+			\hline
+		\end{tabular}
+	\end{center}
+\end{outcomes}
+
+%Comments-------------------------------------------------
+\begin{comments}
+
+Students do not understand the definition of performance metric, criterion, and other things in Materials Selection.
+	
+\end{comments}

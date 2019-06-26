@@ -1,0 +1,87 @@
+%
+\ifexam
+	\part[2]
+	\else
+	\question[2]
+\fi 
+%
+%Begin Question---------------------------------
+\emph{Mathematics:} The interatomic potential the is often used to describe covalent bonding is the Morse potential:
+
+\[E_\text{N} = E_0 \text{exp}[-2 \beta(r-r_0)]-2E_0 \text{exp}[-\beta(r-r0)]\]
+
+Here, E_0 is the equilibrium interatomic potential, $r$ is the interatomic distance, $\beta$ is a constant. Prove the that the \emph{equilibrium} interatomic bond distance is indeed $r = r_0$.
+
+
+%FileID-------------------------------------------------
+\begin{FileID}
+	\begin{center}
+		\begin{tabular}{ll}
+			\hline
+			\hline
+			\#FileTag:C-Ch2-Math-Q14-1.tex & 	\#SourceTag:Original\\ %change
+			\#AuthorTag:JDEmery & \#UseTag:QuizExam\\ %change
+			\hline
+			\#AssignmentTag: & \#TermTag: \\ %add
+			\hline
+			\#TopicTag:InteratomicPotential & \#TopicTag:MorsePotential\\ %change
+			\hline
+			\#TypeTag:MathEvaluation & \\
+			\hline
+		\end{tabular}
+	\end{center}
+\end{FileID}
+
+%Solution------------------------------------------
+\begin{solution}
+
+There are two ways to do this, both require taking a derivative. The first, and the simplest is: we know that $\frac{dE}{dr} = F$ and at equilibrium, F = 0. Therefore, if $r = r_0$:
+
+\begin{align}
+	E_\text{N} &= E_0 \text{exp}[-2 \beta(r_0-r_0)]-2E_0 \text{exp}[-\beta(r_0-r0)]\\
+	E_\text{N} &= E_0 -2E_0 \\
+	E_\text{N} &= -E_0\\
+	\frac{dE_\text{N}}{dr} = F = 0\\ \quad \text{which confirms equilibrium.}
+\end{align}
+
+The second, longer route is to take the derivatives right away:
+
+\begin{align}
+	E_\text{N} &= E_0 \text{exp}[-2 \beta(r-r_0)]-2E_0 \text{exp}[-\beta(r-r0)]\\
+	\frac{dE_\text{N}}{dr} = 0 &= -\cancel{2 \beta E_0} \text{exp}[-2 \beta(r-r_0)]+\cancel{2 E_0 \beta} \text{exp}[-\beta(r-r0)]\\
+	0 &= \text{exp}[-\beta(r-r_0)]+1\\
+	\text{ln}1 &= -\beta(r-r0)\\
+	0 = r - r_0\\
+	r = r_0 \quad \text{qed}.
+\end{align}
+
+\end{solution}
+
+%Rubric---------------------------------------------------
+\begin{rubric}
+
+\begin{itemize}
+	\item Full points only for NiO. Give partial credit for work (up to 50\% pts) if they show electronegativity calculations.
+\end{itemize}
+
+\end{rubric}
+
+%Outcomes--------------------------------------------------
+\begin{outcomes}
+	\begin{center}
+		\begin{tabular}{cccc}
+			\hline\hline
+			Class-Term Used & Term Instructor & Assessment & Percent Correct\\
+			\hline
+			 &  &  & \%\\    %change
+			\hline
+		\end{tabular}
+	\end{center}
+\end{outcomes}
+
+%Comments-------------------------------------------------
+\begin{comments}
+
+This one can be a bit tricky based on the values --- it seems trivial, or at least pedantic.
+ I've not used it in class, although I have employed a more complete variant in exams.	
+\end{comments}

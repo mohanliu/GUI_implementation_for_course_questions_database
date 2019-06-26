@@ -1,0 +1,1524 @@
+Ashby-FITB-Q2-2b:
+  Assessment: QuizL10-2
+  AssignmentTag: QuizL10-2
+  AuthorTag: JDEmery
+  Chapter: Ashby
+  Class-Term: 201-W16
+  FileTag: C21-MC-Q2-2b.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-FITB-Q2-2b.tex
+  Outcome:
+  - Assessment: QuizL10-2
+    Class-Term: 201-W16
+    Score:
+      FullCredit: 50
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 50.0
+  SourceTag: Original
+  TermTag: W17
+  TopicTag: OpticalTransmission
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+Ashby-FITB-Q2-3b:
+  Assessment: QuizL10-2
+  AssignmentTag: QuizL10-2
+  AuthorTag: JDEmery
+  Chapter: Ashby
+  Class-Term: 201-S17
+  FileTag: C21-MC-Q2-2b.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-FITB-Q2-3b.tex
+  Outcome:
+  - Assessment: QuizL10-2
+    Class-Term: 201-S17
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: S17
+  TopicTag: OpticalTransmission
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+Ashby-MC-Q1-1:
+  Assessment: QuizD8
+  AssignmentTag: QuizD8
+  AuthorTag: JEmery
+  Chapter: Ashby
+  Class-Term: 201-S17
+  FileTag: Ashby-MC-Q1-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q1-1.tex
+  Outcome:
+  - Assessment: QuizD8
+    Class-Term: 201-F16
+    Score:
+      FullCredit: 90
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  - Assessment: QuizD8
+    Class-Term: 201-S17
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: F16
+  TopicTag: MaterialsSelection
+  TypeTag: MultipleAnswers
+  UseTag: QuizExam
+Ashby-MC-Q1-2:
+  Assessment: Midterm3
+  AssignmentTag: Midterm3
+  AuthorTag: JEmery
+  Chapter: Ashby
+  Class-Term: 201-W17
+  FileTag: Ashby-MC-Q1-2.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q1-2.tex
+  Outcome:
+  - Assessment: Midterm3
+    Class-Term: 201-W17
+    Score:
+      FullCredit: 100
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 100.0
+  SourceTag: Original
+  TermTag: W17
+  TopicTag: MaterialsSelection
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+Ashby-MC-Q10-1:
+  Assessment: Midterm2
+  AssignmentTag: Midterm2
+  AuthorTag: JEmery
+  Chapter: Ashby
+  Class-Term: 201-F16
+  FileTag: Asbhy-MC-Q10-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q10-1.tex
+  Outcome:
+  - Assessment: Midterm3
+    Class-Term: 201-W16
+    Score: {}
+    TermInstructor: Emery
+  - Assessment: Midterm2
+    Class-Term: 201-F16
+    Score:
+      FullCredit: 70
+      NoCredit: 0
+      PartialCredit: 30
+    TermInstructor: Emery
+  Results: 85.0
+  SourceTag: Original
+  TermTag: F16
+  TopicTag: MaterialsSelection
+  TypeTag: LearningCatalytics
+  UseTag: QuizExam
+Ashby-MC-Q11-1:
+  Assessment: Midterm2
+  AssignmentTag: Midterm2
+  AuthorTag: JEmery
+  Chapter: Ashby
+  Class-Term: 201-F16
+  FileTag: Ashby-MC-Q11-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q11-1.tex
+  Outcome:
+  - Assessment: Midterm3
+    Class-Term: 201-W16
+    Score: {}
+    TermInstructor: Emery
+  - Assessment: Midterm2
+    Class-Term: 201-F16
+    Score:
+      FullCredit: 60
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 60.0
+  SourceTag: Original
+  TermTag: F16
+  TopicTag: MaterialsSelection
+  TypeTag: LearningCatalytics
+  UseTag: QuizExam
+Ashby-MC-Q11-2:
+  Assessment: Midterm2
+  AssignmentTag: Midterm2
+  AuthorTag: JEmery
+  Chapter: Ashby
+  Class-Term: 201-F16
+  FileTag: Ashby-MC-Q11-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q11-2.tex
+  Outcome:
+  - Assessment: Midterm3
+    Class-Term: 201-W16
+    Score: {}
+    TermInstructor: Emery
+  - Assessment: Midterm2
+    Class-Term: 201-F16
+    Score:
+      FullCredit: 60
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 60.0
+  SourceTag: Original
+  TermTag: F16
+  TopicTag: MaterialsSelection
+  TypeTag: LearningCatalytics
+  UseTag: QuizExam
+Ashby-MC-Q12-1:
+  Assessment: Midterm3
+  AssignmentTag: Midterm3
+  AuthorTag: JDEmery
+  Chapter: Ashby
+  Class-Term: 201-W17
+  FileTag: Ashby-MC-12-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q12-1.tex
+  Outcome:
+  - Assessment: Midterm3
+    Class-Term: 201-W17
+    Score:
+      FullCredit: 70
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 70.0
+  SourceTag: Original
+  TermTag: W17
+  TopicTag: MaterialsSelection
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+Ashby-MC-Q12-2:
+  Assessment: Midterm3
+  AssignmentTag: Midterm3
+  AuthorTag: JDEmery
+  Chapter: Ashby
+  Class-Term: 201-S17
+  FileTag: Ashby-MC-12-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q12-2.tex
+  Outcome:
+  - Assessment: Midterm3
+    Class-Term: 201-S17
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: W17
+  TopicTag: MaterialsSelection
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+Ashby-MC-Q13-1:
+  Assessment: Midterm3
+  AssignmentTag: Midterm3
+  AuthorTag: JDEmery
+  Chapter: Ashby
+  Class-Term: 201-S17
+  FileTag: Ashby-MC-12-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q13-1.tex
+  Outcome:
+  - Assessment: Midterm3
+    Class-Term: 201-S17
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: W17
+  TopicTag: MaterialsSelection
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+Ashby-MC-Q2-1:
+  Assessment: ''
+  Chapter: Ashby
+  Class-Term: ''
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q2-1.tex
+  Outcome: []
+  Results: 0.0
+Ashby-MC-Q3-1:
+  Assessment: ''
+  Chapter: Ashby
+  Class-Term: ''
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q3-1.tex
+  Outcome: []
+  Results: 0.0
+Ashby-MC-Q5-1:
+  Assessment: ''
+  Chapter: Ashby
+  Class-Term: ''
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q5-1.tex
+  Outcome: []
+  Results: 0.0
+Ashby-MC-Q6-1:
+  Assessment: ''
+  Chapter: Ashby
+  Class-Term: ''
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q6-1.tex
+  Outcome: []
+  Results: 0.0
+Ashby-MC-Q7-1:
+  Assessment: Midterm3
+  AssignmentTag: Midterm3
+  AuthorTag: RAMichi
+  Chapter: Ashby
+  Class-Term: 201-W16
+  FileTag: A-MC-11-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q7-1.tex
+  Outcome:
+  - Assessment: Midterm3
+    Class-Term: 201-W16
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: 2016W
+  TopicTag: MaterialsSelection
+  TypeTag: MutipleChoice
+  UseTag: QuizExam
+Ashby-MC-Q8-1:
+  Assessment: QuizD8
+  AssignmentTag: QuizD8
+  AuthorTag: JEmery
+  Chapter: Ashby
+  Class-Term: 201-F16
+  FileTag: Ashby-MC-Q8-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q8-1.tex
+  Outcome:
+  - Assessment: QuizD8
+    Class-Term: 201-F16
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: F16
+  TopicTag: MaterialsSelection
+  TypeTag: MutipleChoice
+  UseTag: QuizExam
+Ashby-MC-Q8-2:
+  Assessment: QuizD8
+  AssignmentTag: QuizD8
+  AuthorTag: JEmery
+  Chapter: Ashby
+  Class-Term: 201-F16
+  FileTag: Ashby-MC-Q8-2.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q8-2.tex
+  Outcome:
+  - Assessment: QuizD8
+    Class-Term: 201-F16
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: F16
+  TopicTag: MaterialsSelection
+  TypeTag: MutipleChoice
+  UseTag: QuizExam
+Ashby-MC-Q8-3:
+  Assessment: Midterm2
+  AssignmentTag: Midterm2
+  AuthorTag: JEmery
+  Chapter: Ashby
+  Class-Term: 201-F16
+  FileTag: Ashby-MC-Q11-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q8-3.tex
+  Outcome:
+  - Assessment: Midterm3
+    Class-Term: 201-W16
+    Score: {}
+    TermInstructor: Emery
+  - Assessment: Midterm2
+    Class-Term: 201-F16
+    Score:
+      FullCredit: 60
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 60.0
+  SourceTag: Original
+  TermTag: F16
+  TopicTag: MaterialsSelection
+  TypeTag: LearningCatalytics
+  UseTag: QuizExam
+Ashby-MC-Q9-1:
+  Assessment: Midterm3
+  AssignmentTag: Midterm3
+  AuthorTag: RAMichi
+  Chapter: Ashby
+  Class-Term: 201-W16
+  FileTag: A-MC-Q9-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-MC-Q9-1.tex
+  Outcome:
+  - Assessment: Midterm3
+    Class-Term: 201-W16
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: 2016W
+  TopicTag: MaterialsSelection
+  TypeTag: MutipleChoice
+  UseTag: QuizExam
+Ashby-S-Q2-2:
+  Assessment: ''
+  Chapter: Ashby
+  Class-Term: ''
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-S-Q2-2.tex
+  Outcome: []
+  Results: 0.0
+Ashby-S-Q2-3:
+  Assessment: ''
+  Chapter: Ashby
+  Class-Term: ''
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-S-Q2-3.tex
+  Outcome: []
+  Results: 0.0
+Ashby-S-Q2-3 (2):
+  Assessment: ''
+  Chapter: Ashby
+  Class-Term: ''
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-S-Q2-3 (2).tex
+  Outcome: []
+  Results: 0.0
+Ashby-Sketch-Q1-1:
+  Assessment: Midterm2
+  AssignmentTag: Midterm2
+  AuthorTag: JEmery
+  Chapter: Ashby
+  Class-Term: 201-F16
+  FileTag: Ashby-MC-Q11-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-Sketch-Q1-1.tex
+  Outcome:
+  - Assessment: Midterm3
+    Class-Term: 201-W16
+    Score: {}
+    TermInstructor: Emery
+  - Assessment: Midterm2
+    Class-Term: 201-F16
+    Score:
+      FullCredit: 60
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 60.0
+  SourceTag: Original
+  TermTag: F16
+  TopicTag: MaterialsSelection
+  TypeTag: LearningCatalytics
+  UseTag: QuizExam
+Ashby-Sketch-Q2-1:
+  Assessment: Midterm2
+  AssignmentTag: Midterm2
+  AuthorTag: JEmery
+  Chapter: Ashby
+  Class-Term: 201-F16
+  FileTag: Ashby-MC-Q11-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ashby/Ashby-Sketch-Q2-1.tex
+  Outcome:
+  - Assessment: Midterm3
+    Class-Term: 201-W16
+    Score: {}
+    TermInstructor: Emery
+  - Assessment: Midterm2
+    Class-Term: 201-F16
+    Score:
+      FullCredit: 60
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 60.0
+  SourceTag: Original
+  TermTag: F16
+  TopicTag: MaterialsSelection
+  TypeTag: LearningCatalytics
+  UseTag: QuizExam
+C-Ch2-FITB-Q07-01:
+  Assessment: QuizD2
+  AssignmentTag: Midterm1
+  AuthorTag: JDEmery/PChen
+  Chapter: Ch2
+  Class-Term: 201-F17
+  FileTag: C-Ch2-FITB-Q07-01.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-FITB-Q07-01.tex
+  Outcome:
+  - Assessment: QuizD2
+    Class-Term: 201-F17
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: F17
+  TopicTag: Electronegativity
+  TypeTag: FITB
+  UseTag: QuizExam
+C-Ch2-MC-Q01-01:
+  Assessment: '-'
+  AssignmentTag: ''
+  AuthorTag: GJSnyder
+  CallisterProblems: C$|$2.25,C$|$2.26
+  Chapter: Ch2
+  Class-Term: '-'
+  FileTag: C-Ch2-Q01-01.tex
+  FlagTag: 'Yes'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q01-01.tex
+  Outcome:
+  - Assessment: '-'
+    Class-Term: '-'
+    Score: {}
+    TermInstructor: '-'
+  Results: 0.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: BondCharacter
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q01-02:
+  Assessment: QuizD2
+  AssignmentTag: QuizD2
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: S17
+  FileTag: C-Ch2-MC-Q01-02.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q01-02.tex
+  Outcome:
+  - Assessment: Midterm1
+    Class-Term: F16
+    Score:
+      FullCredit: 95
+      NoCredit: 0
+      PartialCredit: 2
+    TermInstructor: Emery
+  - Assessment: QuizD2
+    Class-Term: S17
+    Score:
+      FullCredit: 90
+      NoCredit: 0
+      PartialCredit: 10
+    TermInstructor: Emery
+  Results: 95.0
+  SourceTag: Original
+  TermTag: S17
+  TopicTag: Electronegativity
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q01-03:
+  Assessment: Midterm1
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: W16
+  FileTag: C-Ch2-MC-Q01-03.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q01-03.tex
+  Outcome:
+  - Assessment: Midterm1
+    Class-Term: W16
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: BondType
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q01-04:
+  Assessment: QuizD2
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: W16
+  FileTag: C-Ch2-MC-Q01-04.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q01-04.tex
+  Outcome:
+  - Assessment: QuizD2
+    Class-Term: W16
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: MaterialsClass
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q01-05:
+  Assessment: '-'
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: '-'
+  FileTag: C-Ch2-MC-Q01-05.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q01-05.tex
+  Outcome:
+  - Assessment: '-'
+    Class-Term: '-'
+    Score: {}
+    TermInstructor: '-'
+  Results: 0.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: BondType
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q01-06:
+  Assessment: ''
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: ''
+  FileTag: C-Ch2-MC-Q01-06.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q01-06.tex
+  Outcome:
+  - Assessment: ''
+    Class-Term: ''
+    Score: {}
+    TermInstructor: ''
+  Results: 0.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: BondType
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q01-07:
+  Assessment: ''
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: ''
+  FileTag: C-Ch2-MC-Q01-07.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q01-07.tex
+  Outcome:
+  - Assessment: ''
+    Class-Term: ''
+    Score: {}
+    TermInstructor: ''
+  Results: 0.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: BondCharacter
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q01-08:
+  Assessment: '-'
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: '-'
+  FileTag: C2-MC-Q01-08.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q01-08.tex
+  Outcome:
+  - Assessment: '-'
+    Class-Term: '-'
+    Score: {}
+    TermInstructor: '-'
+  Results: 0.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: BondType
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q01-09:
+  Assessment: ''
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: ''
+  FileTag: C-Ch2-MC-Q01-09.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q01-09.tex
+  Outcome:
+  - Assessment: ''
+    Class-Term: ''
+    Score: {}
+    TermInstructor: ''
+  Results: 0.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: BondType
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q01-10:
+  Assessment: '-'
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: '-'
+  FileTag: C-Ch2-Q01-10.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q01-10.tex
+  Outcome:
+  - Assessment: '-'
+    Class-Term: '-'
+    Score: {}
+    TermInstructor: '-'
+  Results: 0.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: BondType
+  TypeTag: MultipleAnswer
+  UseTag: QuizExam
+C-Ch2-MC-Q01-11:
+  Assessment: Midterm1
+  AssignmentTag: Midterm1
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: S17
+  FileTag: C-ch2-MC-Q01-11.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q01-11.tex
+  Outcome:
+  - Assessment: Midterm1
+    Class-Term: S17
+    Score:
+      FullCredit: 25
+      NoCredit: 20
+      PartialCredit: 55
+    TermInstructor: Emery
+  Results: 52.5
+  SourceTag: Original
+  TermTag: S17
+  TopicTag: Electronegativity
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q01-12:
+  Assessment: Midterm1
+  AssignmentTag: Midterm1
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: S17
+  FileTag: C-Ch2-MC-Q01-12.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q01-12.tex
+  Outcome:
+  - Assessment: Midterm1
+    Class-Term: S17
+    Score:
+      FullCredit: 75
+      NoCredit: 0
+      PartialCredit: 25
+    TermInstructor: Emery
+  Results: 87.5
+  SourceTag: Original
+  TermTag: S17
+  TopicTag: Electronegativity
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q02-01:
+  Assessment: Midterm1
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: S17
+  FileTag: C-Ch2-MC-Q02-01.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q02-01.tex
+  Outcome:
+  - Assessment: Midterm1
+    Class-Term: S17
+    Score:
+      FullCredit: 75
+      NoCredit: 0
+      PartialCredit: 25
+    TermInstructor: Emery
+  Results: 87.5
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: BondCharacter
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q02-02:
+  Assessment: Midterm1
+  AssignmentTag: QuizD2
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: S17
+  FileTag: C-Ch2-MC-Q02-02.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q02-02.tex
+  Outcome:
+  - Assessment: Midterm1
+    Class-Term: S17
+    Score:
+      FullCredit: 80
+      NoCredit: 0
+      PartialCredit: 20
+    TermInstructor: Emery
+  Results: 90.0
+  SourceTag: Original
+  TermTag: S17
+  TopicTag: BondType
+  TypeTag: LearningCatalytics
+  UseTag: QuizExam
+C-Ch2-MC-Q03-01:
+  Assessment: Midterm1
+  AssignmentTag: ''
+  AuthorTag: JMRondinelli
+  Chapter: Ch2
+  Class-Term: F15
+  FileTag: C-Ch3-MC-Q03-01.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q03-01.tex
+  Outcome:
+  - Assessment: Midterm1
+    Class-Term: F15
+    Score:
+      FullCredit: 95
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 95.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: PeriodicTable & ElectronicStructure
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q03-02:
+  Assessment: QuizD2
+  AssignmentTag: ''
+  AuthorTag: JMRondinelli
+  Chapter: Ch2
+  Class-Term: W16
+  FileTag: C3-MC-Q03-02.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q03-02.tex
+  Outcome:
+  - Assessment: QuizD2
+    Class-Term: W16
+    Score:
+      FullCredit: 95
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 95.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: ElectronicStructure
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q03-03:
+  Assessment: Midterm1
+  AssignmentTag: ''
+  AuthorTag: JMRondinelli
+  Chapter: Ch2
+  Class-Term: W16
+  FileTag: C3-MC-Q03-03.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q03-03.tex
+  Outcome:
+  - Assessment: Midterm1
+    Class-Term: W16
+    Score:
+      FullCredit: 95
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 95.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: ElectronicStructure
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q04-01:
+  Assessment: QuizD2
+  AssignmentTag: Quiz1
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: W16-2
+  FileTag: C-Ch2-MC-Q04-01.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q04-01.tex
+  Outcome:
+  - Assessment: QuizD2
+    Class-Term: W16-1
+    Score:
+      FullCredit: 80
+      NoCredit: 10
+      PartialCredit: 10
+    TermInstructor: Emery
+  - Assessment: QuizD2
+    Class-Term: W16-2
+    Score:
+      FullCredit: 50
+      NoCredit: 30
+      PartialCredit: 20
+    TermInstructor: Emery
+  Results: 60.0
+  SourceTag: Original
+  TermTag: F15
+  TopicTag: InteratomicBonding
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q04-02:
+  Assessment: Midterm \#1
+  AssignmentTag: Midterm1
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-W16
+  FileTag: C2-MC-Q4-2.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q04-02.tex
+  Outcome:
+  - Assessment: Midterm \#1
+    Class-Term: 201-W16
+    Score:
+      FullCredit: 85
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 85.0
+  SourceTag: Original
+  TermTag: 2016W
+  TopicTag: InteratomicBonding
+  TypeTag: MutipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q04-03:
+  Assessment: F16Midterm1
+  AssignmentTag: Midterm1
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-F16
+  FileTag: C2-MC-Q4-3.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q04-03.tex
+  Outcome:
+  - Assessment: W16QuizD3
+    Class-Term: 201-W16
+    Score:
+      FullCredit: 50
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  - Assessment: F16Midterm1
+    Class-Term: 201-F16
+    Score:
+      FullCredit: 80
+      NoCredit: 0
+      PartialCredit: 5
+    TermInstructor: Emery
+  Results: 82.5
+  SourceTag: Original
+  TermTag: 2016F
+  TopicTag: InteratomicBonding
+  TypeTag: LearningCatalytics
+  UseTag: QuizExam
+C-Ch2-MC-Q05-01:
+  Assessment: Midterm \#1
+  AssignmentTag: QuizD2
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-W16
+  FileTag: C2-MC-Q5-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q05-01.tex
+  Outcome:
+  - Assessment: Midterm \#1
+    Class-Term: 201-W16
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: F16
+  TopicTag: InteratomicForce & InteratomicEnergy
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q06-01:
+  Assessment: Midterm1
+  AssignmentTag: Midterm1
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-S17
+  FileTag: C2-MC-Q6-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q06-01.tex
+  Outcome:
+  - Assessment: QuizD2
+    Class-Term: 201-F16
+    Score:
+      FullCredit: 50
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  - Assessment: LearningCatalytics
+    Class-Term: 201-W17
+    Score: {}
+    TermInstructor: Emery
+  - Assessment: ConceptCheck
+    Class-Term: 201-S17
+    Score: {}
+    TermInstructor: Emery
+  - Assessment: Midterm1
+    Class-Term: 201-S17
+    Score:
+      FullCredit: 45
+      NoCredit: 15
+      PartialCredit: 40
+    TermInstructor: Emery
+  Results: 65.0
+  SourceTag: Original
+  TermTag: S17
+  TopicTag: BondType
+  TypeTag: MutipleChoice & MultipleAnswer
+  UseTag: QuizExam
+C-Ch2-MC-Q06-02:
+  Assessment: Midterm1
+  AssignmentTag: Midterm1
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-W17
+  FileTag: C-Ch2-MC-Q6-2.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q06-02.tex
+  Outcome:
+  - Assessment: Midterm1
+    Class-Term: 201-W17
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: W17
+  TopicTag: BondType
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q06-03:
+  Assessment: QuizD2
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-F17
+  FileTag: C-Ch2-MC-Q06-03.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q06-03.tex
+  Outcome:
+  - Assessment: QuizD2
+    Class-Term: 201-F17
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: BondType
+  TypeTag: MultipleAnswer
+  UseTag: QuizExam
+C-Ch2-MC-Q06-04:
+  Assessment: ''
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: ''
+  FileTag: C2-MC-Q6-2.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q06-04.tex
+  Outcome:
+  - Assessment: ''
+    Class-Term: ''
+    Score:
+      FullCredit: 50
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: ''
+  Results: 50.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: BondDirectionality & BondType
+  TypeTag: MultipleChoice & MultipleAnswer
+  UseTag: QuizExam
+C-Ch2-MC-Q08-01:
+  Assessment: ''
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-W16
+  FileTag: C2-MC-Q3-3.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q08-01.tex
+  Outcome:
+  - Assessment: ''
+    Class-Term: 201-W16
+    Score: {}
+    TermInstructor: ''
+  Results: 0.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: ElectronicStructure
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q09-02:
+  Assessment: QuizD2
+  AssignmentTag: Midterm1
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-W16
+  FileTag: C-Ch2-MC-Q9-2.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q09-02.tex
+  Outcome:
+  - Assessment: ''
+    Class-Term: 201-F15
+    Score: {}
+    TermInstructor: ''
+  - Assessment: QuizD2
+    Class-Term: 201-W16
+    Score:
+      FullCredit: 80
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 80.0
+  SourceTag: Original
+  TermTag: W17
+  TopicTag: InterionicBonding
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q09-03:
+  Assessment: QuizD2
+  AssignmentTag: QuizD2
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-S17
+  FileTag: C-Ch2-MC-Q9-3.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q09-03.tex
+  Outcome:
+  - Assessment: ''
+    Class-Term: 201-F15
+    Score: {}
+    TermInstructor: ''
+  - Assessment: ''
+    Class-Term: 201-W16
+    Score: {}
+    TermInstructor: ''
+  - Assessment: QuizD2
+    Class-Term: 201-S17
+    Score:
+      FullCredit: 95
+      NoCredit: 0
+      PartialCredit: 5
+    TermInstructor: Emery
+  Results: 97.5
+  SourceTag: Original
+  TermTag: S17
+  TopicTag: InteratomicBonding
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q09-04:
+  Assessment: QuizD2
+  AssignmentTag: QuizD2
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-W17
+  FileTag: C2-MC-Q9-4.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q09-04.tex
+  Outcome:
+  - Assessment: QuizD2
+    Class-Term: 201-W17
+    Score:
+      FullCredit: 85
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 85.0
+  SourceTag: Original
+  TermTag: W17
+  TopicTag: InteratomicBonding
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q09-05:
+  Assessment: QuizD2
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-W17
+  FileTag: C2-MC-Q09-05.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q09-05.tex
+  Outcome:
+  - Assessment: QuizD2
+    Class-Term: 201-W17
+    Score:
+      FullCredit: 75
+      NoCredit: 25
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 75.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: InteratomicBonding
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q09-06:
+  Assessment: QuizD2
+  AssignmentTag: QuizD2
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-W17
+  FileTag: C-Ch2-MC-Q9-6.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q09-06.tex
+  Outcome:
+  - Assessment: QuizD2
+    Class-Term: 201-W17
+    Score:
+      FullCredit: 95
+      NoCredit: 0
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 95.0
+  SourceTag: Original
+  TermTag: W17
+  TopicTag: InteratomicBonding
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q09-07:
+  Assessment: QuizD2
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-W16
+  FileTag: C2-MC-Q9-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q09-07.tex
+  Outcome:
+  - Assessment: Quiz1
+    Class-Term: 201-F15
+    Score: {}
+    TermInstructor: Emery
+  - Assessment: QuizD2
+    Class-Term: 201-W16
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: InteratomicBonding
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q09-08:
+  Assessment: Midterm1
+  AssignmentTag: Miderm1
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-S17
+  FileTag: C2-MC-Q9-2.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q09-08.tex
+  Outcome:
+  - Assessment: ''
+    Class-Term: 201-F15
+    Score: {}
+    TermInstructor: Emery
+  - Assessment: ''
+    Class-Term: 201-W16
+    Score: {}
+    TermInstructor: Emery
+  - Assessment: Midterm1
+    Class-Term: 201-S17
+    Score:
+      FullCredit: 85
+      NoCredit: 0
+      PartialCredit: 15
+    TermInstructor: Emery
+  Results: 92.5
+  SourceTag: Original
+  TermTag: S17
+  TopicTag: InteratomicBonding
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q09-09:
+  Assessment: Midterm1
+  AssignmentTag: Miderm1
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-S17
+  FileTag: C2-MC-Q9-2.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q09-09.tex
+  Outcome:
+  - Assessment: ''
+    Class-Term: 201-F15
+    Score: {}
+    TermInstructor: Emery
+  - Assessment: ''
+    Class-Term: 201-W16
+    Score: {}
+    TermInstructor: Emery
+  - Assessment: Midterm1
+    Class-Term: 201-S17
+    Score:
+      FullCredit: 85
+      NoCredit: 0
+      PartialCredit: 15
+    TermInstructor: Emery
+  Results: 92.5
+  SourceTag: Original
+  TermTag: S17
+  TopicTag: InteratomicBonding
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q09-10:
+  Assessment: Midterm1
+  AssignmentTag: QuizD2
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-F17
+  FileTag: C2-MC-Q9-10.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q09-10.tex
+  Outcome:
+  - Assessment: Midterm1
+    Class-Term: 201-F17
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: F17
+  TopicTag: InteratomicBonding
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q09-11:
+  Assessment: Midterm1
+  AssignmentTag: Midterm1
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-F17
+  FileTag: C-Ch2-MC-Q09-11.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q09-11.tex
+  Outcome:
+  - Assessment: Midterm1
+    Class-Term: 201-F17
+    Score:
+      FullCredit: 65
+      NoCredit: 5
+      PartialCredit: 30
+    TermInstructor: Emery
+  Results: 80.0
+  SourceTag: Original
+  TermTag: F17
+  TopicTag: InteratomicPotential
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q09-12:
+  Assessment: Midterm1
+  AssignmentTag: Midterm1
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-F17
+  FileTag: C-Ch2-MC-Q09-12.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q09-12.tex
+  Outcome:
+  - Assessment: Midterm1
+    Class-Term: 201-F17
+    Score:
+      FullCredit: 15
+      NoCredit: 85
+      PartialCredit: 0
+    TermInstructor: Emery
+  Results: 15.0
+  SourceTag: Original
+  TermTag: F17
+  TopicTag: ''
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q10-01:
+  Assessment: ''
+  AssignmentTag: QuizD2
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: ''
+  FileTag: C2-MC-Q10-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q10-01.tex
+  Outcome:
+  - Assessment: ''
+    Class-Term: ''
+    Score: {}
+    TermInstructor: ''
+  Results: 0.0
+  SourceTag: Original
+  TermTag: F16
+  TopicTag: BondCharacter & Electronegativity
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q10-02:
+  Assessment: ''
+  AssignmentTag: QuiD2
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: ''
+  FileTag: C2-MC-Q10-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q10-02.tex
+  Outcome:
+  - Assessment: ''
+    Class-Term: ''
+    Score: {}
+    TermInstructor: ''
+  Results: 0.0
+  SourceTag: Original
+  TermTag: F16
+  TopicTag: BondCharacter & Electronegativity
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q11-01:
+  Assessment: QuizD2
+  AssignmentTag: QuizD2
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-F16
+  FileTag: C2-MC-Q11-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q11-01.tex
+  Outcome:
+  - Assessment: QuizD2
+    Class-Term: 201-F16
+    Score: {}
+    TermInstructor: Emery
+  Results: 0.0
+  SourceTag: Original
+  TermTag: F16
+  TopicTag: InteratomicForce & InteratomicEnergy
+  TypeTag: MutipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q12-01:
+  Assessment: ''
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: ''
+  FileTag: C2-MC-Q2-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q12-01.tex
+  Outcome:
+  - Assessment: ''
+    Class-Term: ''
+    Score: {}
+    TermInstructor: ''
+  Results: 0.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: BondCharacter
+  TypeTag: MultipleChoice
+  UseTag: QuizExam
+C-Ch2-MC-Q13-01:
+  Assessment: ''
+  Chapter: Ch2
+  Class-Term: ''
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q13-01.tex
+  Outcome: []
+  Results: 0.0
+C-Ch2-MC-Q13-02:
+  Assessment: ''
+  Chapter: Ch2
+  Class-Term: ''
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q13-02.tex
+  Outcome: []
+  Results: 0.0
+C-Ch2-MC-Q13-03:
+  Assessment: ''
+  Chapter: Ch2
+  Class-Term: ''
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-MC-Q13-03.tex
+  Outcome: []
+  Results: 0.0
+C-Ch2-Math-Q13-04:
+  Assessment: ''
+  Chapter: Ch2
+  Class-Term: ''
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-Math-Q13-04.tex
+  Outcome: []
+  Results: 0.0
+C-Ch2-Math-Q14-01:
+  Assessment: ''
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: ''
+  FileTag: C-Ch2-Math-Q14-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-Math-Q14-01.tex
+  Outcome:
+  - Assessment: ''
+    Class-Term: ''
+    Score: {}
+    TermInstructor: ''
+  Results: 0.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: MorsePotential
+  TypeTag: MathEvaluation
+  UseTag: QuizExam
+C-Ch2-Math-Q14-02:
+  Assessment: ''
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: ''
+  FileTag: C-Ch2-Math-Q14-02.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-Math-Q14-02.tex
+  Outcome:
+  - Assessment: ''
+    Class-Term: ''
+    Score: {}
+    TermInstructor: ''
+  Results: 0.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: LJPotential
+  TypeTag: MathEvaluation
+  UseTag: QuizExam
+C-Ch2-Sketch-Q01-01:
+  Assessment: QuizD2
+  AssignmentTag: ''
+  AuthorTag: JDEmery
+  Chapter: Ch2
+  Class-Term: 201-S17
+  FileTag: C-Ch2-Sketch-Q1-1.tex
+  FlagTag: 'No'
+  FullPath: /Users/mohan/MSE201QuestionsDatabase/Ch2/C-Ch2-Sketch-Q01-01.tex
+  Outcome:
+  - Assessment: QuizD2
+    Class-Term: 201-S17
+    Score:
+      FullCredit: 50
+      NoCredit: 0
+      PartialCredit: 50
+    TermInstructor: Emery
+  Results: 75.0
+  SourceTag: Original
+  TermTag: ''
+  TopicTag: InteratomicBonding
+  TypeTag: Sketch
+  UseTag: QuizExam

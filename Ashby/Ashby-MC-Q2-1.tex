@@ -1,0 +1,49 @@
+%%
+\ifexam
+	\part[2]
+	\else
+	\question[1]
+\fi
+%Begin Question----------------------------------------------------
+In the Figure below, which plots tensile strength ($\sigma_{\text{TS}}$) vs. density ($\rho$), there are 7 lines drawn (1-7). Which lines represents a materials index of $M_i = \frac{\sigma_{\text{TS}}^{2/3}}{\rho}$? 
+%
+\begin{multicols}{3}
+	\begin{choices}
+		\choice 1
+		\choice 2
+		\correctchoice 3
+		\choice 4
+		\choice 5
+		\choice 6
+		\choice 7
+	\end{choices}
+\end{multicols}
+
+\begin{solution}
+
+So, you can either recognize that if you have a general materials index: $M_i = \frac{A^n}{B^p}$, and $p = 1$, you can read the slope directly from the denominator. It will be $n^{-1}$. In our case, $n = 2/3$, so the slope, $m = 3/2$. That is slope \#3.
+
+Alternatively, you can work it out:
+%
+\begin{align*}
+	M_i &= \frac{\sigma_{\text{TS}}^{2/3}}{\rho}\\
+	log(M_i) &= \frac{2}{3}log(\sigma_{\text{TS}})-log(\rho)\\
+	log(\sigma_{\text{TS}}) &= \frac{3}{2}log(\rho)+\frac{3}{2}log(M_i)
+	\intertext{which is in the form $log(Y) = m\,log(X)+b$, with $m = 3/2$. The drawing for this slope is shown in the solution figure.}
+\end{align*} 
+%
+\end{solution}
+
+\begin{rubric}
+
+Full pts for \#2, 50\% pts for \#5, no pts otherwise. If they showed work, but got the wrong answer, 50\% pts.
+
+\end{rubric}
+
+\begin{outcomes}
+	
+\end{outcomes}
+
+\begin{comments}
+
+\end{comments}

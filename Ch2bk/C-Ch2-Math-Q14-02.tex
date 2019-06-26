@@ -1,0 +1,79 @@
+%
+\ifexam
+	\part[2]
+	\else
+	\question[2]
+\fi 
+%
+%Begin Question---------------------------------
+\emph{Mathematics:} The interatomic potential that is often used to describe secondary bonding is the Lennard-Jones potential:
+
+\[E_{\text{N}} = 4 \epsilon \left(\left(\frac{\sigma}{r}\right)^{12}-\left(\frac{\sigma}{r}\right)^{6}\right)\]
+
+Derive an expression for the the equilibrium interatomic spacing, $r_0$, for this potential. Show work and put your final answer in a \fbox{BOX}.
+
+
+%FileID-------------------------------------------------
+\begin{FileID}
+	\begin{center}
+		\begin{tabular}{ll}
+			\hline
+			\hline
+			\#FileTag:C-Ch2-Math-Q14-02.tex & 	\#SourceTag:Original\\ %change
+			\#AuthorTag:JDEmery & \#UseTag:QuizExam\\ %change
+			\hline
+			\#AssignmentTag: & \#TermTag: \\ %add
+			\hline
+			\#TopicTag:InteratomicPotential & \#TopicTag:LJPotential\\ %change
+			\hline
+			\#TypeTag:MathEvaluation & \\
+			\hline
+		\end{tabular}
+	\end{center}
+\end{FileID}
+
+%Solution------------------------------------------
+\begin{solution}
+
+We have an expression for net energy, $E_{\text{N}}$ and we know that $\frac{dE}{dr} = F = 0$ at equilibrium. Therefore we can solve for $r_0$ quickly:
+
+\begin{align*}
+	E_\text{N} &= 4 \epsilon \left(\left(\frac{\sigma}{r}\right)^{12}-\left(\frac{\sigma}{r}\right)^{6}\right)\\
+	\frac{dE_\text{N}}{dr} = F &= 0 = -12\epsilon \sigma^{12} r_0^{-13} + 6 \epsilon \sigma^{6} r_0^{-7}\\
+	2 \sigma^{6} r^{-6} &= 1\\
+	\Aboxed{2^{1/6}\sigma &= r_0}
+\end{align*}
+
+
+\end{solution}
+
+%Rubric---------------------------------------------------
+\begin{rubric}
+
+\begin{itemize}
+	\item 25\% pt for knowing to take the derivitive of $E_{\text{N}}$.
+	\item 25\% pt for knowing to set the derivitive to 0.
+	\item -25\% pt for each math error. Remember to follow calculations through (propogate errors) --- and no double jeopardy on math errors.
+\end{itemize}
+
+\end{rubric}
+
+%Outcomes--------------------------------------------------
+\begin{outcomes}
+	\begin{center}
+		\begin{tabular}{cccc}
+			\hline\hline
+			Class-Term Used & Term Instructor & Assessment & Percent Correct\\
+			\hline
+			 &  &  & \%\\    %change
+			\hline
+		\end{tabular}
+	\end{center}
+\end{outcomes}
+
+%Comments-------------------------------------------------
+\begin{comments}
+
+A pretty simple extension of problems done with the interionic potential (C$|$2.17, C$|$2.18).
+	
+\end{comments}
